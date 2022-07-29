@@ -5,6 +5,10 @@
 
  Jr. Android Developer 
 
+![Alt Text](https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest?cb=20160720220827)
+
+
+
  -  [Linkedin](https://www.linkedin.com/in/serdarakcay/)
   
  - [Github](https://github.com/srdrakcay)
