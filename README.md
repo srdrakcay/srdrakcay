@@ -5,7 +5,7 @@
 
  Jr. Android Developer 
 
-![Alt Text](https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest?cb=20160720220827)
+![Alt Text](https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif)
 
 
 
