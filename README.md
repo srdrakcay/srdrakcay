@@ -1,6 +1,6 @@
 # Hi there I'm Serdar 👋
 
-![Github](https://miro.medium.com/max/1200/1*e3jNfHQGTe7f7ptGpa74yA.png)
+![Github](https://i.hizliresim.com/2ppi1ht.gif)
 
 
  Jr. Android Developer | Environmental Engineer
