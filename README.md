@@ -31,5 +31,5 @@ Kotlin | Android | Autocad | Solidworks | Github |
 
   
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srdrakcay&show_icons=true&locale=en" alt="srdrakcay" /></p>
+
 
