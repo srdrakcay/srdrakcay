@@ -3,7 +3,7 @@
 ![Github](https://i.hizliresim.com/2ppi1ht.gif)
 
 
- Jr. Android Developer | Environmental Engineer
+  Android Developer | Environmental Engineer
 
 
 
